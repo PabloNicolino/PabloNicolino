@@ -4,7 +4,7 @@
 
 - 🔍 Atualmente aberto a novas oportunidades.
 - 👩🏽‍💻 Sistemas de Informação (2022 - 2025)
-- 💻 Programador Front-End
+- 💻 Desenvolvedor .NET
 
 ## <p>
 👨‍💻 Olá pessoal! Sou o Pablo, um entusiasta da programação e atualmente estou no 5º Período do curso de Sistemas de Informação. Minha paixão é transformar linhas de código em soluções inovadoras como Desenvolvedor .NET. Estou sempre em busca de desafios que me permitam expandir meu conhecimento e contribuir para o mundo da tecnologia. Vamos juntos criar algo incrível! 💻✨
